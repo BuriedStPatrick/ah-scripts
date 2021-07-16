@@ -17,7 +17,7 @@ These are a bunch of AutoHotkey scripts I use for making the Windows keyboard ex
 | Win+W      | Same as Win+Q                        |
 | Ctrl+Q     | Same as Win+Q                        |
 | Win+T      | Launch taskmgr                       |
-| Win+S      | Launch Slack.                        |
+| Win+S      | Launch or focus Slack.               |
 
 
 Futhermore, all `Win+<number>` key combinations are disabled. Who even uses this??
